@@ -1,0 +1,289 @@
+@media (max-width: 991px){
+    .emaar-slider.slick-slider{
+        height: auto;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .emaar-sec-007 .row .col-md-5 img {
+    width: 140px;
+}
+    .emaar-sec-008 p {
+    font-size: 12px;
+}
+.right-spacing .col-lg-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    .left-spacing .col-lg-8 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.left-spacing .col-lg-4 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+    .right-spacing .col-lg-8 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+    .navbar-toggler-icon.cross {
+    background: url(../images/cross.svg) center/60% no-repeat!important;
+}
+ .navbar-toggler-icon {
+    background-image: url(../images/toggle.svg) !important;
+}
+.banner-section {
+    margin-top: 63px;
+}
+a.navbar-brand img {
+    width: 90px !important;
+    height: auto !important;
+}
+button.navbar-toggler {
+    border: none;
+    padding: 0;
+}
+    .navbar .navbar-nav .nav-link-emaar:nth-child(6):after{
+        display: none;
+    }
+    .navbar .navbar-nav .nav-item{
+        padding: 10px 0px;
+    }
+    .ptb {padding: 60px 0px;}
+    /*.banner-section::after, .banner-section::before{*/
+    /*    display: none;*/
+    /*}*/
+    .banner-section .heading-inner {
+    font-size: 30px;
+}
+.banner-section .heading {
+    line-height: 35px;
+    font-size: 38px;
+}
+    .tabvisible{
+    display: block;
+    width: 140px;
+    padding: 25px 0px;
+}
+.image-75a-logo img{
+    display: none;
+}
+.image-75a-logo{
+    padding: 30px 0px 0px 0px;
+}
+    .row.banner-swipe{
+         flex-direction: column-reverse;
+    }
+    .location-show-details {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px 0px;
+    padding-top:10px;
+}
+.location-show-details div{
+    margin: 5px 22px 5px 22px;
+    width: 300px;
+}
+.row.left-spacing{
+    flex-direction: column-reverse;
+}
+.location-show-details div:nth-child(3){
+    margin-top: 25px;
+}
+    .location-map-emaar img {
+    width: 100%;
+    height: auto;
+}
+
+    .location-map-emaar iframe {
+    height: 300px;
+}
+.specgrid{
+    height: 201px;
+}
+    .br-cls{display: none;}
+    .emaar-utube-description p {
+    font-size: 22px;
+   
+}
+    .emaar-sec-007 .row .col-5 h2{
+        margin-top: 45px;
+    line-height: 55px;
+    width: auto;
+    }
+    .emaar-sec-007 .row .col-md-5 h2{
+        width: auto;
+        line-height: initial;
+    }
+  /*  .banner-section::before {*/
+  /*left: 72%;animation-name:  width-rl;}*/
+  .emaar-sec-006{
+      height: auto;
+  }
+  .location-map-emaar{
+      background: unset;
+  }
+  
+  .fixbtn {display:block; display: block;
+    color: #fff;
+    text-align: center;
+    opacity: 0.8;}
+  #pricepopup {display:none;}
+  
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    
+    .wch .col-lg-2 {width:30%;}
+}
+
+@media(max-width: 767px){
+    .emaar-sec-004 .emaar-utube-description .heading {
+    line-height: 40px;
+}
+    .location-show-details div:nth-child(3) {
+    margin-top: 15px;
+    border-bottom: none;
+}
+.location-show-details div{
+    width: 100%;
+}
+
+.wch .col-lg-2 {
+    width:50%;
+}
+/*    .image-75a-logo {*/
+/*    padding: 30px 0px 0px 0px;*/
+/*}*/
+    .pb{
+        padding-bottom: 60px;
+    }
+    .brochure{
+        background-color: #000;
+        color: #ffffff;
+    }
+    .brochure::after, .brochure::before{
+        background-color: #fff;
+    }
+    .banner-section .heading {
+    line-height: 25px;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.tabvisible {
+    padding: 15px 0px;
+}
+.banner-section .heading-inner {
+    font-size: 20px;
+}
+    .banner-section {
+    margin-top: 78px;
+}
+    .imp-dis-n{
+        display: none;
+    }
+    .banner-section::after, .banner-section::before{
+        display: none;
+    }
+    h1, h2, h3, h4, h5, h6 {
+    font-size: 30px;
+}
+.line-height-other-h {
+    line-height: 35px;
+}
+.ptb {
+    padding: 60px 0px;
+}
+ .banner-section {
+    margin-top: 78px;
+    padding-top: 35px;
+}
+.emaar-sec-007 .row .col-md-5 h2 {
+   margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: inherit;
+    width: auto;
+}
+    .emaar-sec-007 .form {
+    padding: 50px 0px;
+}
+    .emaar-sec-007 .row .col-md-5{
+        padding: 50px 15px 30px 15px;
+    }
+     .emaar-sec-006 p{
+        margin-bottom: 0;
+    }
+    .emaar-sec-007 .row .col-md-7 {
+   padding: 0px 15px 15px 15px;
+}
+.emaar-sec-006{
+    height: auto;
+}
+#location{
+    padding-top: 0px;
+}
+#contact{
+        padding: 0;
+    }
+    .emaar-margin-top-banner {
+    margin-top: 15px;
+}
+.specgrid {
+    height: auto;
+}
+.heading {
+    line-height: initial;
+}
+.emaar-sec-007 .col-md-7 .mb-3{
+        margin-bottom: 2rem !important;
+    }
+    .registerform .innerform .contact-from .mb-4{
+        margin-bottom: 2rem !important;
+    }
+    .fixedbtn{
+        left: -90px;
+    }
+    
+.modal-dialog {padding:20px;}    
+.emaar-sec-007 .form {padding-top:0; margin-top:0;}
+.heading br {display:none;}
+
+.priceng {font-size:25px; bottom:90px; width:100%; margin-bottom:25px;}
+.emaar-slider::before {height:85%; opacity:0.8;}
+
+.emaar-slider img {
+        height: 360px;
+    object-fit: cover;
+}
+
+.priceng::after {
+    bottom: -30px;
+    width: 100%;
+    height: 28px;
+    content: '3L per SQ.YDS';
+    background: #eaead5;
+    position: absolute;
+    left: 0;
+    font-size: 13px;
+    color: #000;
+    padding-left: 10px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.image-75a-logo p br {
+    display: none;
+}
+
+.emaar-sec-007 .row .col-md-7 {
+    padding-top:20px !important;
+}
+
+.fixedbtn .btnrt {
+    display: none;
+}
+}
+    
+    

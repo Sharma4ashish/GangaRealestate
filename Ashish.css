@@ -1,0 +1,266 @@
+
+        @import url('https://fonts.googleapis.com/css?family=Montserrat:600|Open+Sans');
+
+a {
+    text-decoration: none;
+    /* margin: 1rem 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8125rem; */
+    letter-spacing: 1px;
+  }
+.GalleryDivLead {
+  max-width: 600px;
+  margin: 1rem auto 1.5rem;
+}
+
+.GalleryDivashish a {
+  color: #5b7abb;
+  display: block;
+}
+
+.GalleryDivashish h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #56ceba;
+  font-size: 1.3rem;
+  margin: 1rem 0 0.6rem;
+}
+
+.GalleryDivgrid {
+  
+  display: flex;
+  justify-content: center;
+
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.GalleryDivashish {
+  background: #fff;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 4px;
+  text-align: center;
+  -webkit-box-flex: 1;
+  flex: 1;
+  display: -webkit-box;
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid #e7e7e7;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.GalleryDivashish:hover {
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.08);
+}
+
+.GalleryDivashish i {
+  font-size: 3.45rem;
+  margin: 1rem 0;
+}
+/* 
+.GalleryDivashish1 i,
+.GalleryDivashish1 h4,
+.GalleryDivashish1 .cta {
+  color: #42b7ca;
+} */
+
+.GalleryDivashish1:hover {
+  border: 2px solid #42b7ca;
+}
+
+/* .GalleryDivashish2 i,
+.GalleryDivashish2 h4,
+.GalleryDivashish2 .cta {
+  color: #425fca;
+} */
+
+.GalleryDivashish2:hover {
+  border: 2px solid #425fca;
+}
+
+/* .GalleryDivashish3 i,
+.GalleryDivashish3 h4,
+.GalleryDivashish3 .cta {
+  color: #9c42ca;
+} */
+
+.GalleryDivashish3:hover {
+  border: 2px solid #9c42ca;
+}
+
+.GalleryDivashish .cta span {
+  font-size: 0.6rem;
+}
+
+.GalleryDivashish > * {
+  flex: 1 1 100%;
+}
+
+.GalleryDivashish .cta {
+  align-self: flex-end;
+}
+
+@media all and (max-width:900px) {
+  .GalleryDivgrid {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+  }
+}
+
+
+.GalleryDivashish {
+    background: #fff;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    -webkit-box-flex: 1;
+    flex: 1;
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #e7e7e7;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.GalleryDivashish.GalleryDivashish1 {
+    background-image: url(images/Gallery\ 1.jpg);
+    /* height: 280px; */
+    background-size: cover;
+    width: -webkit-fill-available;
+    min-height: 360px;
+    max-width: 360px;
+
+}
+.GalleryDivashish.GalleryDivashish2 {
+    background-image: url(images/Gallery\ 2.jpg);
+    /* height: 280px; */
+    background-size: cover;
+    width: -webkit-fill-available;
+    min-height: 360px;
+    max-width: 360px;
+
+}
+.GalleryDivashish.GalleryDivashish3 {
+    background-image: url(images/Gallery\ 3.jpg);
+    /* height: 280px; */
+    background-size: cover;
+    width: -webkit-fill-available;
+    min-height: 360px;
+    max-width: 360px;
+
+}
+
+
+
+a.cta {
+    color: black;
+    font-size: 20px;
+    text-shadow: 0px 2px #0000004f;
+    display: none;
+}
+
+
+a.cta {
+    font-size: 28px;
+    text-shadow: 1px 1px 1px white, 0 0 12px white, 0 0 5px #f5f5fffa;
+}
+
+h2#contactus-whatsapp {
+  margin-top: 30px;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+
+
+/* Contact us form  */
+
+
+.container-floorplan {
+  min-width: 300px;
+  position: relative;
+  padding: 1.5%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container-floorplan .image {
+  filter: blur(3px);
+  opacity: 0.3;
+}
+
+.container-floorplan .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #ffffff;
+  color: #404040;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+
+/* Contact us form  */
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------Banner ------------------------------------------------------ */
+
+.banner-section::after {
+  opacity: 0.3;
+  left: -170px;
+  bottom: 45px;
+}
+
+/* body > nav > div > a > img {
+  height: 59px;
+} */
+
+
+
+/* ------------------------------------------------Banner ------------------------------------------------------ */
+
+
+
+
+

@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Apr 2023 17:12:19 at https://www.ebd114nxt.co.in/?utm_source=Digital&utm_medium=Search&utm_campaign=EBD114NXT/Propstory/Google2&utm_campaign_code=EBD114NXTPSG2&gclid=CjwKCAjw__ihBhADEiwAXEazJkJR5z_0QUWktK9rhY6MvlPDzvNr1acdzmF7JcRTSdxUBHQ13Q2OxBoCL3IQAvD_BwE +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ebd114nxt.co.in/?utm_source=Digital&utm_medium=Search&utm_campaign=EBD114NXT/Propstory/Google2&utm_campaign_code=EBD114NXTPSG2&gclid=CjwKCAjw__ihBhADEiwAXEazJkJR5z_0QUWktK9rhY6MvlPDzvNr1acdzmF7JcRTSdxUBHQ13Q2OxBoCL3IQAvD_BwE -O1 "C:\My Web Sites\emmar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:12:40	Error: 	"Not Found" (404) at link https://www.ebd114nxt.co.in/images/video/ebd-nxt.webm (from https://www.ebd114nxt.co.in/?utm_source=Digital&utm_medium=Search&utm_campaign=EBD114NXT/Propstory/Google2&utm_campaign_code=EBD114NXTPSG2&gclid=CjwKCAjw__ihBhADEiwAXEazJkJR5z_0QUWktK9rhY6MvlPDzvNr1acdzmF7JcRTSdxUBHQ13Q2OxBoCL3IQAvD_BwE)
+17:12:40	Error: 	"Not Found" (404) at link https://www.ebd114nxt.co.in/images/video/ebd-nxt.ogv (from https://www.ebd114nxt.co.in/?utm_source=Digital&utm_medium=Search&utm_campaign=EBD114NXT/Propstory/Google2&utm_campaign_code=EBD114NXTPSG2&gclid=CjwKCAjw__ihBhADEiwAXEazJkJR5z_0QUWktK9rhY6MvlPDzvNr1acdzmF7JcRTSdxUBHQ13Q2OxBoCL3IQAvD_BwE)
+17:12:40	Error: 	"Not Found" (404) at link https://www.ebd114nxt.co.in/css/ajax-loader.gif (from https://www.ebd114nxt.co.in/css/slick-theme.css)
+17:12:40	Error: 	"Not Found" (404) at link https://www.ebd114nxt.co.in/css/fonts/slick.eot (from https://www.ebd114nxt.co.in/css/slick-theme.css)
+17:12:40	Error: 	"Not Found" (404) at link https://www.ebd114nxt.co.in/css/fonts/slick.eot? (from https://www.ebd114nxt.co.in/css/slick-theme.css)
+17:12:40	Error: 	"Not Found" (404) at link https://www.ebd114nxt.co.in/css/fonts/slick.woff (from https://www.ebd114nxt.co.in/css/slick-theme.css)
+17:12:40	Error: 	"Not Found" (404) at link https://www.ebd114nxt.co.in/css/fonts/slick.ttf (from https://www.ebd114nxt.co.in/css/slick-theme.css)
+17:12:40	Error: 	"Not Found" (404) at link https://www.ebd114nxt.co.in/css/fonts/slick.svg (from https://www.ebd114nxt.co.in/css/slick-theme.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 76 links scanned, 67 files written (23904993 bytes overall) [23430670 bytes received at 1115746 bytes/sec], 659881 bytes transferred using HTTP compression in 9 files, ratio 24%, 5.9 requests per connection
+(8 errors, 0 warnings, 0 messages)
